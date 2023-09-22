@@ -6,6 +6,10 @@ OpenManipulator Robot
 - Authors:  `Kirolos Thabet`,`Omar Eltoutongy`
 - Video: [Click here](https://drive.google.com/file/d/19vdLllEE1uaMLqKB7r5kbxa4HzEAeuvY/view?usp=drive_link)
 
+## Documents Link 
+You can access all of the data and materials for the project at this [link](https://drive.google.com/drive/folders/1s2P9fYWpjyiIKmSfmTXUVgcSgz1mdkiO?usp=drive_link). 
+
+
 ## Directory Hierarchy
 ```
 |—— MCT 344 Project Description.pdf
